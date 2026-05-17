@@ -1,4 +1,4 @@
-# 🐍 VIPER — Vision Intelligente et Plotter Efficace Rectangulaire
+# 🐍 VIPER — Vision Intelligente et Plotter Efficient Rectangulaire
 
 <br>
 
@@ -18,7 +18,7 @@ S'inspirant de la cinématique mécanique rigide **CoreXY** d'une *Voron V0.2*, 
 
 * **👁️ Vision Intelligente** Analyse en temps réel du besoin du patient, suivi précis des mouvements et génération de trajectoires fluides adaptées via un **Raspberry Pi 5**.
 
-* **📐 Plotter Efficace Rectangulaire** Architecture mécanique CoreXY ultra-rigide permettant des déplacements cartésiens rapides, précis et sans jeu cinématique.
+* **📐 Plotter Efficient Rectangulaire** Architecture mécanique CoreXY ultra-rigide permettant des déplacements cartésiens rapides, précis et sans jeu cinématique.
 
 * **📉 Input Shaping (ADXL345)** Filtration active à 100% des vibrations et résonances mécaniques du robot pour garantir un tracé d'une précision chirurgicale.
 
